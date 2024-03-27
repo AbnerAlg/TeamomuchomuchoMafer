@@ -3,9 +3,9 @@
 }
 
 .contenedor{
-    background: rgb(78, 155, 157);
+    background: cadetblue;
     width: 100vw;
-    height: 280vh;
+    height: 100vh;
     text-align: center;
 }
 
